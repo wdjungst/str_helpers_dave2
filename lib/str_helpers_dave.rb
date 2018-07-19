@@ -1,4 +1,5 @@
 require "str_helpers_dave/version"
+require "str_helpers_dave/greeting"
 
 module StrHelpersDave
 
